@@ -1,2 +1,2 @@
-![Data enjoyeer...](https://giphy.com/clips/Goldmaster-star-trek-data-picard-qS4DPrJm4tIPrkAARg)
+![Data enjoyeer...](https://media.giphy.com/media/xT0BKi1TLjmKiu1HGg/giphy.gif)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/991dev)
